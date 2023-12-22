@@ -10,10 +10,35 @@ Presented here is a snapshot encompassing over 36 million query logs, predominan
 
 **Context**
 
+The dataset contains numerous tables, but for our project, we will focus mainly on the following tables: `DMOZ_CATEGORIES`, `FACTS`, `QUERYDIM`, `TIMEDIM`, `URL_CATEGORY`, and `URLDIM`.
+
+Each of these tables has various columns. Below are the specific columns from these tables that we'll be using for our project:
+
+`Topic`: This column provides the full name of the category and indicates its placement.
+
+`Title`: Refers to the name of the category to which a query belongs.
+
+`Topic 1 - 15`: These columns list sub-topics corresponding to the full topic mentioned.
+
+`Catid`: This is a unique identifier for each category.
+
+`Query`: The specific query made by the user.
+
+`Queryid`: Represents the ID of the query.
+
+`Click`: This is a boolean value that indicates whether a user clicked on the provided link or URL.
+
+`URL`: This column provides the actual URL that corresponds to the executed query.
+
+_Note_: I haven't detailed every ID column that can be used for joining tables to avoid potential confusion. The column names are mostly self-explanatory.
 
 **External Dataset**
 
+To gather deeper insights from our data, we link it with a database available on Kaggle.
+The dataset contains information about reviews from users for different animes, with text review and scores.
+
+Link to the file: https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?select=reviews.csv
 
 **Final Schema**
 
-![Final Schema][/home/hritiksauw/4_Git_Project/User-search-behaviour-analysis-on-anime/images/FInal Schema.png]
+![Final](images%2FSchema.jpg)
