@@ -6,7 +6,7 @@ For this project we utilized Exasol to establish a connection with the database 
 
 # About the Data
 
-Presented here is a snapshot encompassing over 36 million query logs, predominantly originating from U.S. citizens, and the corresponding clicked results spanning the period from March to June 2006. This dataset was culled from the AOL search engine during a period when Google search technology was in use. 
+Presented here is a snapshot of AOL leaked data (2006) encompassing over 36 million query logs, predominantly originating from U.S. citizens, and the corresponding clicked results spanning the period from March to June 2006. This dataset was culled from the AOL search engine during a period when Google search technology was in use. 
 
 **Context**
 
@@ -42,3 +42,14 @@ Link to the file: https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-
 **Final Schema**
 
 ![Final](images%2FSchema.jpg)
+
+# Technologies Used
+
+`Database`: Exasol (DB Image)
+
+`Connection to Database`: DataGrip, Virtual Machine (Oracle)
+
+`Programming Languages and Tools`: SQL, Python, Jupyter Notebook
+
+`Visualization`: PowerBI
+
