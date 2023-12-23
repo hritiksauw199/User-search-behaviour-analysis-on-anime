@@ -57,7 +57,7 @@ Link to the file: https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-
 
 ## [Task 1: Analysing most visited websites](./Task%201/)
 
-In this task, the objective is to analyze the most visited websites that users frequent both in an overall context and on a monthly basis. Notably, we found that cartoonsanime.com emerged as the most visited website in the aggregate data. However, upon visualizing the monthly metrics, it became evident that the ranking and user engagement varied across different months.
+In this task, the objective is to analyze the most visited websites that users frequent both in an overall context and on a monthly basis. Notably, we found that `cartoonsanime.com` emerged as the most visited website in the aggregate data. However, upon visualizing the monthly metrics, it became evident that the ranking and user engagement varied across different months.
 
 ## 
 
