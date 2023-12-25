@@ -64,12 +64,18 @@ In this task, the objective is to analyze the most visited websites that users f
 In this task, our objective is to discern the popularity of specific anime genres and titles across various states in the U.S. By examining this geographical dimension, we aim to uncover trends and patterns within the search data, providing insights into regional preferences and interests. To make our analysis better, we use a custom table that enable us to extract more detailed information.
 
 
+## [Task 3:User clicks per different categories](./Task%203:%20%20User%20clicks%20per%20different%20categories/)
 
 
+Here, we examine the primary search categories users frequently explore. To simplify, we've grouped them into four main categories, highlighting which websites or items received the most searches within each category.
 
+## [Task 4: Periodic trend of user searches](./Task%204:%20Periodic%20trend%20of%20user%20searches/)
 
+In this task, we explore search patterns over both weekly and yearly periods. We visualize these patterns to understand how they fluctuate over time.
 
+## [Task 5: Popular animes across different genres](./Task%205:%20Popular%20animes%20across%20different%20genres/)
 
+Finally, we examine which anime gained popularity within specific genres. This helps us understand people's preferences and insights into how they feel about their favorite anime.
 
 # Challenges
 
