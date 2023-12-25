@@ -55,11 +55,19 @@ Link to the file: https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-
 
 # Analysis
 
-## [Task 1: Analysing most visited websites](./Task%201/)
+## [Task 1: Analysing most visited websites](./Task%201:%20Analysing%20most%20visited%20websites/)
 
 In this task, the objective is to analyze the most visited websites that users frequent both in an overall context and on a monthly basis. Notably, we found that `cartoonsanime.com` emerged as the most visited website in the aggregate data. However, upon visualizing the monthly metrics, it became evident that the ranking and user engagement varied across different months.
 
-## 
+## [Task 2: Genre preference across region](./Task%202:%20Genre%20preference%20across%20region/)
+
+In this task, our objective is to discern the popularity of specific anime genres and titles across various states in the U.S. By examining this geographical dimension, we aim to uncover trends and patterns within the search data, providing insights into regional preferences and interests. To make our analysis better, we use a custom table that enable us to extract more detailed information.
+
+
+
+
+
+
 
 
 
