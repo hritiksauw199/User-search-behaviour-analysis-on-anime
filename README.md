@@ -76,7 +76,3 @@ In this task, we explore search patterns over both weekly and yearly periods. We
 ## [Task 5: Popular animes across different genres](./Task%205:%20Popular%20animes%20across%20different%20genres/)
 
 Finally, we examine which anime gained popularity within specific genres. This helps us understand people's preferences and insights into how they feel about their favorite anime.
-
-# Challenges
-
-# References
